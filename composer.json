@@ -3,7 +3,12 @@
     "name": "wprooty/rooty",
     "type": "project",
     "description": "A boilerplate for building modern WordPress projects with Composer.",
-    "keywords": ["framework", "wordpress", "rooty"],
+    "keywords": [
+        "framework",
+        "wordpress",
+        "wprooty",
+        "rooty"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.3",
