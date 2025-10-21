@@ -1,5 +1,0 @@
-*
-!acf/
-!acf/json/
-!acf/json/*.json
-!.gitignore

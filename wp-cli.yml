@@ -1,5 +1,0 @@
-path: public/wp
-server:
-  docroot: public
-require:
-  - vendor/autoload.php
