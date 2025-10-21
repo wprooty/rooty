@@ -52,8 +52,8 @@ yarn-error.log*
 .env.production
 
 # Lock files
-# composer.lock
-# package-lock.json
+composer.lock
+package-lock.json
 
 # Storage
 /storage/vite
